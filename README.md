@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, soy trxsalo</h1>
+
 - 🌱 Actualmente estoy aprendiendo **Nextjs**
+
 - 📝 Escribo artículos regularmente en [blog.trxsalo.xyz](blog.trxsalo.xyz)
+
 - 📫 Cómo contactarme **trxsalo@txsalo.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -47,9 +50,6 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
-<a href="https://www.photoshop.com/es" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -64,3 +64,4 @@
 </a>
 
 <p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxsalo&show_icons=true&locale=es&layout=compact" alt="trxsalo" /></p>
+
