@@ -8,8 +8,10 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://dev.to/trxsalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trxsalo" height="30"
-<a href="https://linkedin.com/in/marcos-lorasx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-lorasx" height="30" width="40" /></a> <a href="https://instagram.com/trxsalo.dev" target="blank">
+<a href="https://dev.to/trxsalo" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trxsalo" height="30"/>
+<a href="https://linkedin.com/in/marcos-lorasx" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-lorasx" height="30" width="40" /></a> <a href="https://instagram.com/trxsalo.dev" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trxsalo.dev" height="30" width="40" /></a>
 </p>
 
