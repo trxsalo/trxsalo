@@ -4,7 +4,7 @@
 
 - 📝 Escribo artículos regularmente en [blog.trxsalo.xyz](https://blog.trxsalo.xyz)
 
-- 📫 Cómo contactarme **trxsalo@txsalo.com**
+- 📫 Cómo contactarme **trxsalo@txsalo.xyz**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
