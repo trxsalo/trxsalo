@@ -2,7 +2,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Nextjs**
 
-- 📝 Escribo artículos regularmente en [blog.trxsalo.xyz](https://blog.trxsalo.com)
+- 📝 Escribo artículos regularmente en [blog.trxsalo.com](https://blog.trxsalo.com)
 
 - 📫 Cómo contactarme **trxsalo.dev@trxsalo.com**
 
